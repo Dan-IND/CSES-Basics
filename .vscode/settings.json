@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "valarray": "cpp"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
